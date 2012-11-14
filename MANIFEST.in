@@ -1,0 +1,4 @@
+include *.txt *.ini *.cfg *.rst
+recursive-include ddbmock *.py
+recursive-include docs *.py *.rst *.png Makefile make.bat
+recursive-include tests *.py
